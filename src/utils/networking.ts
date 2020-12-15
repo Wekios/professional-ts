@@ -2,7 +2,6 @@ import { stringifyError } from './error';
 import HTTPError from './http-error';
 
 /**
- *
  * @param input
  * @param init
  */
